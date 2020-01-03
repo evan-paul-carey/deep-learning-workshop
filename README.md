@@ -3,3 +3,6 @@ This is the supporting materials for a deep learning workshop developed by Evan 
 
 ## Introduction and software installation video
 Please watch this video for a brief introduction and instructions on how to prepare your computer for the workshop. We will be using Python and Tensorflow (no GPU required, you can run on a laptop) for this course. You have the option of setting up a local install of Tensorflow via Anaconda, or you can use the google colab cloud environment which requires a google account, but no setup on your computer. 
+
+## Course materials
+All course materials will be posted prior to Monday morning at 6 AM pacific time. 

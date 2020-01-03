@@ -12,4 +12,7 @@ Please watch this video for a brief introduction and instructions on how to prep
 Please watch the video and attempt setup prior to coming to the workshop if at all possible! The workshop is a short two hours with 50+ registered attendees. We will not have time to troubleshoot installations during that two hours. If you have any questions or issues, I will be available to trouble shoot in person from 7:00-7:50 AM on Monday, 1/6, at the conference near the workshop areas. I will update this page with my exact location once I arrive and sort it out :) 
 
 ## Course materials
+
+Course materials are not currently ready for download! I will change this notice when they are ready :) 
+
 All course materials will be posted prior to Monday morning at 6 AM pacific time. Please download them prior to coming to the workshop if possible! 

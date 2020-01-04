@@ -3,9 +3,10 @@ This is the supporting materials for a deep learning workshop developed by Evan 
 
 ## Introduction and software installation video
 
-(video to be uploaded by Saturday 1/4 @ 11 AM CT)
+(video has been uploaded)
+https://youtu.be/x1xAPGRGszc
 
-Please watch this video for a brief introduction and instructions on how to prepare your computer for the workshop. We will be using Python and Tensorflow (no GPU required, you can run on a laptop) for this course. You have the option of setting up a local install of Tensorflow via Anaconda, or you can use the google colab cloud environment which requires a google account, but no setup on your computer. So if you would like to follow-along and run code, you must either:
+Please watch the video above for a brief introduction and instructions on how to prepare your computer for the workshop. We will be using Python and Tensorflow (no GPU required, you can run on a laptop) for this course. You have the option of setting up a local install of Tensorflow via Anaconda, or you can use the google colab cloud environment which requires a google account, but no setup on your computer. So if you would like to follow-along and run code, you must either:
 
 * install tensorflow to your computer via anaconda 
 * or use your google account to log into google colab

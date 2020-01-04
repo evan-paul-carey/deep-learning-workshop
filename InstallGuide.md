@@ -76,10 +76,12 @@ Now add a new cell and let's try some tensorflow commands.
 
 This should load tensorflow. We give the module the alias tf upon import so we can refer to it as tf in subsequent code.
 
-`# load tensorflow`
+`# load tensorflow`  
+
 `import tensorflow as tf`
   
-`# check tensorflow version. Should be 2.x!`
+`# check tensorflow version. Should be 2.x!`  
+
 `tf.__version__`
 
 ### Extras

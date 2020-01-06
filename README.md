@@ -13,7 +13,9 @@ Please watch the video above for a brief introduction and instructions on how to
 
 I have written up instructions for installation as well and posted them under the file 'InstallGuide.md'. You should see it listed at the first level. Click on it to view it. 
 
-Please watch the video and attempt setup prior to coming to the workshop if at all possible! The workshop is a short two hours with 50+ registered attendees. We will not have time to troubleshoot installations during that two hours. If you have any questions or issues, I will be available to trouble shoot in person from 7:00-7:50 AM on Monday, 1/6, at the conference near the workshop areas. I will update this page with my exact location once I arrive and sort it out :) 
+Please watch the video and attempt setup prior to coming to the workshop if at all possible! The workshop is a short two hours with 50+ registered attendees. We will not have time to troubleshoot installations during that two hours. If you have any questions or issues, I will be available to trouble shoot in person from 7:00-7:50 AM on Monday, 1/6, at the conference near the workshop areas. 
+
+Update @ 1/6/2020 - 7AM: I am sitting in the group of blue chairs in the hotel lobby outside the west coast ballroom. I am a 6' caucasian male with brown hair wearing a blue suit and a white shirt. Feel free to come ask for any install help! I am attending another workshop at 8 AM so I will be here until 7:50.
 
 ## Course materials
 

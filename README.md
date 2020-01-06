@@ -17,6 +17,6 @@ Please watch the video and attempt setup prior to coming to the workshop if at a
 
 ## Course materials
 
-Course materials are not currently ready for download! I will change this notice when they are ready :) 
+Course materials are ready for download :) 
 
-All course materials will be posted prior to Monday morning at 6 AM pacific time. Please download them prior to coming to the workshop if possible! 
+Please download them prior to coming to the workshop if possible! 

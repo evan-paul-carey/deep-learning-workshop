@@ -56,7 +56,7 @@ This will create a new environment called `py3_tf`, that includes all the packag
 
 ### Launch Jupyter notebooks and create a test notebook
 
-Now you should have
+Now you should have a fully funtioning tensorflow python environment that was built on your machine using miniconda!
 
 1. Open Anaconda prompt again (close it and reopen it if you need to)
 2. Ask conda to list the installed environments by typing `conda env list` then press enter. You should see the new environment you created for tensorflow, called `py3_tf` if you followed the instructions above. 
@@ -67,9 +67,9 @@ Now you should have
 
 Start with some basic Python math commands like this:
 
-`2 + 2`
-`x = 2*20`
-`print(x)`
+`2 + 2`  
+`x = 2*20`  
+`print(x)`  
 
 If you want to put them into different cells, use the `INSERT --> INSERT CELL BELOW` menu option. 
 Now add a new cell and let's try some tensorflow commands. 

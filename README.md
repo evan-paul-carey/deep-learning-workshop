@@ -1,5 +1,5 @@
 # deep-learning-workshop
-This is the supporting materials for a deep learning workshop developed by Evan Carey, to be presented at the International Conference on Health Policy Statistics in San Diego on 1/6/2020.  
+These are the supporting materials for a deep learning workshop developed by Evan Carey, to be presented at the International Conference on Health Policy Statistics in San Diego on 1/6/2020.  
 
 ## Introduction and software installation video
 
